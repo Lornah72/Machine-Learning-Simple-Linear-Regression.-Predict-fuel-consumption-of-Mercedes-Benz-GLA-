@@ -1,20 +1,20 @@
 # Machine-Learning-Simple-Linear-Regression.-Predict-fuel-consumption-of-Mercedes-Benz-GLA-
 
-#**hhhhhhh**
-##Using Simple Linear Regression we predict the fuel consumption of Mercedes-Benz GLA (1991cc) at different speed. We assume everything that may affect the performance to be constant.
 
-#I used jupyter notebook which uses python
+Using Simple Linear Regression we predict the fuel consumption of Mercedes-Benz GLA (1991cc) at different speed. We assume everything that may affect the performance to be constant.
 
-#How to run:
+I used jupyter notebook which uses python
 
-##1. Ensure you've downloaded pip and python on your computer
+How to run:
 
-##2. Run the following commands
+1. Ensure you've downloaded pip and python on your computer
 
-######py -m venv venv
+2. Run the following commands
 
-######venv\Scripts\activate.bat
+py -m venv venv
 
-######pip install jupyter notebook
+venv\Scripts\activate.bat
 
-######jupyter notebook
+pip install jupyter notebook
+
+jupyter notebook
