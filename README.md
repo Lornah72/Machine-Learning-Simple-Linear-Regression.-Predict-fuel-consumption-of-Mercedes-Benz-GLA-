@@ -4,7 +4,7 @@ I used jupyter notebook which uses python
 #How to run:
 1. Ensure you've downloaded pip and python on your computer
 2. Run the following commands
-  py -m venv venv
-  venv\Scripts\activate.bat
-  pip install jupyter notebook
-  jupyter notebook
+py -m venv venv
+venv\Scripts\activate.bat
+pip install jupyter notebook
+jupyter notebook
